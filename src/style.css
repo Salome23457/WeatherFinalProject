@@ -63,3 +63,8 @@ li {
 li::first-letter {
   text-transform: capitalize;
 }
+
+.weather-forecast-temp-min {
+  opacity: 0.5;
+  color: crimson;
+}
